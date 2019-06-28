@@ -1,0 +1,21 @@
+p {
+  font-size: 20px;
+  padding: 10px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
+
+.del {
+  background-color: red;
+  border-radius: 50%;
+  border: none;
+  padding: 5px 9px;
+  cursor: pointer;
+  float: right;
+}
+
+
+.isComplete {
+  text-decoration: line-through;
+  color: #f1f1f1;
+}

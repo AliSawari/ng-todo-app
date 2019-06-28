@@ -1,0 +1,16 @@
+a {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 7px;
+  background: inherit;
+  font-size: 20px;
+  margin: 0 auto;
+  text-decoration: none;
+  text-align: center;
+  color:black;
+}
+
+.nav {
+  margin: 20px auto;
+  text-align: center;
+}

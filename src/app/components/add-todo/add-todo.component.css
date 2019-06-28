@@ -1,0 +1,30 @@
+.box {
+  background: #ffffff;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+  margin: 0 auto;
+  display: inline;
+  width: 40%;
+}
+
+.btn {
+  margin: 0 auto;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  background: #90ee90;
+  padding: 13px;
+  margin: 0 auto;
+  display: inline;
+  cursor: pointer;
+  width: 20%;
+  float: right;
+}
+
+.btn:hover {
+  background: #5fff5f
+}

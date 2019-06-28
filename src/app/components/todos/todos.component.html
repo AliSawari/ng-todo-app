@@ -1,0 +1,5 @@
+<app-add-todo (emitNew)="add($event)"></app-add-todo>
+<hr>
+<app-search-todo (searching)="search($event)"></app-search-todo>
+<app-todo-item (deleteTodo)="delete($event)" *ngFor="let todo of viewTodos" [todo]="todo">
+</app-todo-item>

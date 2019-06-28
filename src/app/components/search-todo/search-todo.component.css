@@ -1,0 +1,12 @@
+input {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 15px;
+  padding: 15px;
+  background: inherit;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  border: none;
+}
